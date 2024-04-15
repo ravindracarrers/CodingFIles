@@ -1,0 +1,2 @@
+ML Observability: The Essentials
+https://arize.com/blog-course/machine-learning-observability-essentials/
